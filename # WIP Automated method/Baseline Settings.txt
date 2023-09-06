@@ -1,0 +1,43 @@
+Sampling: 100%
+Texture: Ultra
+Objects: Ultra
+Terrain: Ultra
+
+Shadow: Disabled
+Particles: Low
+Cloud: Standard
+PIP: Disabled
+
+Overall: 12000
+Object: 12000
+Shadow: 50
+PIP: 100
+
+HDR: Standard
+Dynamic Lights: Standard
+Water Reflections: Disabled
+
+Display: Fullscreen Window
+Resolution: 3840x2160 (16:9)
+Aspect Ratio: Auto (Stretch) (16:9)
+Vsync: Disabled
+Interface Size: Small
+Brightness: 1.0
+Gamma: 1.0
+
+Bloom: 0
+Radial Blur: 0
+Rotation Blur: 0
+Depth Of Field: 0
+Sharpen Filter: 100
+AO: Disabled
+Caustics: Disabled
+
+Color Preset: Default
+Brightness: 100
+Contrast: 100
+Saturation: 100
+FSAA: 4x
+ATOC: Disabled
+PPAA: Disabled
+Aniso. Filtering: Ultra
